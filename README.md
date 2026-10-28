@@ -53,9 +53,12 @@ making the system robust *by construction*, not by training.
 ## Repository Structure
 
 ├── DESIGN.md          # Full architectural specification
+
 ├── diagrams/          # Architecture maps, flowcharts, wave propagation visuals
+
 ├── references/        # Mathematical foundations, related work
-└── LICENSE            # 
+
+└── LICENSE
 
 ## Citation
 
